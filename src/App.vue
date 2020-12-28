@@ -1,28 +1,46 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" :class="colorMode == 'light' ? 'light'  : 'dark'"  class="page-with-colors gradient-none">
+    <div class="home">
+        <app-header />
+        <div class="content fixed-layout-content fp-tableCell">
+          <div class="sections">
+            <router-view />
+          </div>
+        </div>
+    </div>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import appHeader from '@/components/App-header' 
 
 export default {
   name: 'App',
   components: {
-    HelloWorld
+    appHeader
+  },
+  data () {
+    return {
+      
+    }
+  },
+  
+  methods: {
+    
+  },
+  computed: {
+    colorMode() {
+      return this.$store.state.colorMode
+    }
   }
 }
 </script>
 
-<style lang="scss">
-#app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
-}
+<style>
+  /* @import 'assets/css/main.css';
+  @import 'assets/css/bootstrap.min.css'; */
+  html:lang(ar) * {
+    text-align: right;
+    direction: rtl;
+  }
 </style>

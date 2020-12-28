@@ -1,0 +1,161 @@
+{
+  "my": {
+    "name": "Mustafa Fathi",
+    "jobTitle": "Front end developers",
+    "jobTitle2": "Designer",
+    "typed": "I CREATE WEB AND GRAPHIC DESIGN",
+    "date": "July 15, 1998",
+    "email": "Mustafa.fathi7@gmail.com",
+    "address": "El-behira, Egypt",
+    "phone": "(+20) 01069966454",
+    "portfolioLink": "https://themeforest.net/user/mu_themes/portfolio"
+  },
+  "links": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "resume": "Resume",
+    "testimonials": "Testimonials",
+    "portfolio": "Portfolio",
+    "contact": "Contact Me"
+  },
+  "hello": "Hello!",
+  "i": "I'm",
+  "home-btn": "Download My Cv",
+  "home-sec-title": "Independent Web Designer",
+  "and": "and",
+  "aboutDescription": "I have Four years experience as a web/interface designer. I have a love of clean, elegant styling, and I have lots of experience in the production of CSS and (X)HTML for modern websites. I have a reasonable grasp of using JavaScript frameworks, specifically Vue.js.",
+  "aboutSection": {
+    "date": "Date Of Birth",
+    "address": "Address",
+    "name": "name",
+    "email": "email",
+    "phone": "phone",
+    "company": "Company",
+    "btn": "My Portfolio"
+  },
+  "servicesSection": {
+    "one": {
+      "title": "WEB DESIGN",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    },
+    "two": {
+      "title": "Fast Support",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    },
+    "three": {
+      "title": "BRAND BUILDING",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    },
+    "four": {
+      "title": "RESPONSIVE THEME",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    },
+    "five": {
+      "title": "EASY TO SETUP",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    },
+    "six": {
+      "title": "MANAGEMENT",
+      "desc": "Pellentesque sit amet porttitor eget dolor morbi."
+    }
+    
+  },
+  "resumeSection": {
+    "education" : {
+      "title": "Education",
+      "one": {
+        "title": "SENIOR FRONT END DEVELOPER",
+        "year": "2020",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      },
+      "two": {
+        "title": "FRONT END DEVELOPER",
+        "year": "2018",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      },
+      "three": {
+        "title": "UI&UX DESIGNER",
+        "year": "2016",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      }
+    },
+    "experience" : {
+      "title": "Experience",
+      "one": {
+        "title": "ENGINEERING DEGREE",
+        "year": "2019",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      },
+      "two": {
+        "title": "BACHELOR DEGREE",
+        "year": "2017",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      },
+      "three": {
+        "title": "MASTER DEGREE",
+        "year": "2015",
+        "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing."
+      }
+    },
+    "design-Skills": {
+      "title": "Design Skills",
+      "one": {
+        "title": "WEB DESIGN",
+        "precent": "90"
+      },
+      "two": {
+        "title": "ILLUSTRATION",
+        "precent": "80"
+      },
+      "three": {
+        "title": "HTML / CSS",
+        "precent": "95"
+      },
+      "four": {
+        "title": "PHOTOSHOP",
+        "precent": "90"
+      }
+    },
+    "programing-Skills": {
+      "title": "Programing Skills",
+      "one": {
+        "title": "web development",
+        "precent": "90"
+      },
+      "two": {
+        "title": "database",
+        "precent": "80"
+      },
+      "three": {
+        "title": "python",
+        "precent": "95"
+      },
+      "four": {
+        "title": "c++",
+        "precent": "90"
+      }
+    }
+  },
+  "testimonialsSection": {
+    "testi-slider": {
+      "title": "WHAT OTHER SAY",
+      "one": {
+        "content": "Donec eu est vel metus consequat volutpat. Nunc aliquet euismod mauris, a feugiat urna ullamcorper non.",
+        "name": "Ahmed Selemo",
+        "jobTitle": "Product Manager"
+      },
+      "two": {
+        "content": "Donec eu est vel metus consequat volutpat. Nunc aliquet euismod mauris, a feugiat urna ullamcorper non.",
+        "name": "Ahmed Tawfik",
+        "jobTitle": "Back End Developer"
+      },
+      "three": {
+        "content": "Donec eu est vel metus consequat volutpat. Nunc aliquet euismod mauris, a feugiat urna ullamcorper non.",
+        "name": "Hend Mahmoud",
+        "jobTitle": "CEO Founder"
+      }
+    }
+
+  }
+}
